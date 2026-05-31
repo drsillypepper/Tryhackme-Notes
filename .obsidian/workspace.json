@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pre-Security/Introduction to Cyber Security/Careers in Cyber/4. Quiz.md",
+                "file": "Pre-Security/Introduction to Cyber Security/2. What is networking/5. Ping (icmp).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4. Quiz"
+              "title": "5. Ping (icmp)"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pre-Security/Introduction to Cyber Security/Careers in Cyber/4. Quiz.md",
+                "file": "Pre-Security/Introduction to Cyber Security/2. What is networking/5. Ping (icmp).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Paluulinkit: 4. Quiz"
+              "title": "Paluulinkit: 5. Ping (icmp)"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pre-Security/Introduction to Cyber Security/Careers in Cyber/4. Quiz.md",
+                "file": "Pre-Security/Introduction to Cyber Security/2. What is networking/5. Ping (icmp).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Lähtevät linkit: 4. Quiz"
+              "title": "Lähtevät linkit: 5. Ping (icmp)"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pre-Security/Introduction to Cyber Security/Careers in Cyber/4. Quiz.md",
+                "file": "Pre-Security/Introduction to Cyber Security/2. What is networking/5. Ping (icmp).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sisällysluettelo: 4. Quiz"
+              "title": "Sisällysluettelo: 5. Ping (icmp)"
             }
           }
         ]
@@ -185,12 +185,18 @@
   },
   "active": "eb147a3f59204f0d",
   "lastOpenFiles": [
-    "Pre-Security/Introduction to Cyber Security/Careers in Cyber/3. Penetration Tester.md",
-    "Pre-Security/Introduction to Cyber Security/Careers in Cyber/4. Quiz.md",
-    "Pre-Security/Introduction to Cyber Security/Careers in Cyber/0. Careers in Cyber.md",
-    "Pre-Security/Introduction to Cyber Security/Careers in Cyber/2.  Security Engineering.md",
-    "Pre-Security/Introduction to Cyber Security/Careers in Cyber/1. Security analyst.md",
-    "Pre-Security/Introduction to Cyber Security/Careers in Cyber",
+    "Pre-Security/Introduction to Cyber Security/2. What is networking/4. Mac addresses.md",
+    "Pre-Security/Introduction to Cyber Security/2. What is networking/5. Ping (icmp).md",
+    "Pre-Security/Introduction to Cyber Security/2. What is networking/3. Identifying Devices on a network.md",
+    "Pre-Security/Introduction to Cyber Security/2. What is networking/2. What is internet.md",
+    "Pre-Security/Introduction to Cyber Security/2. What is networking/1. What is networking.md",
+    "Pre-Security/Introduction to Cyber Security/1. Careers in Cyber/4. Quiz.md",
+    "Pre-Security/Introduction to Cyber Security/2. What is networking",
+    "Pre-Security/Introduction to Cyber Security/1. Careers in Cyber/3. Penetration Tester.md",
+    "Pre-Security/Introduction to Cyber Security/1. Careers in Cyber/0. Careers in Cyber.md",
+    "Pre-Security/Introduction to Cyber Security/1. Careers in Cyber/2.  Security Engineering.md",
+    "Pre-Security/Introduction to Cyber Security/1. Careers in Cyber/1. Security analyst.md",
+    "Pre-Security/Introduction to Cyber Security/1. Careers in Cyber",
     "Pre-Security",
     "Pre-Security/Introduction to Cyber Security"
   ]
