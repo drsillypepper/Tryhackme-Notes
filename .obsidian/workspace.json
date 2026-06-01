@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pre-Security/Introduction to Cyber Security/2. What is networking/5. Ping (icmp).md",
+                "file": "1. Pre-Security/3. How the web works/4. Putting it all together/2. Content delivery networks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5. Ping (icmp)"
+              "title": "2. Content delivery networks"
             }
           }
         ]
@@ -185,19 +185,41 @@
   },
   "active": "eb147a3f59204f0d",
   "lastOpenFiles": [
-    "Pre-Security/Introduction to Cyber Security/2. What is networking/4. Mac addresses.md",
-    "Pre-Security/Introduction to Cyber Security/2. What is networking/5. Ping (icmp).md",
-    "Pre-Security/Introduction to Cyber Security/2. What is networking/3. Identifying Devices on a network.md",
-    "Pre-Security/Introduction to Cyber Security/2. What is networking/2. What is internet.md",
-    "Pre-Security/Introduction to Cyber Security/2. What is networking/1. What is networking.md",
-    "Pre-Security/Introduction to Cyber Security/1. Careers in Cyber/4. Quiz.md",
-    "Pre-Security/Introduction to Cyber Security/2. What is networking",
-    "Pre-Security/Introduction to Cyber Security/1. Careers in Cyber/3. Penetration Tester.md",
-    "Pre-Security/Introduction to Cyber Security/1. Careers in Cyber/0. Careers in Cyber.md",
-    "Pre-Security/Introduction to Cyber Security/1. Careers in Cyber/2.  Security Engineering.md",
-    "Pre-Security/Introduction to Cyber Security/1. Careers in Cyber/1. Security analyst.md",
-    "Pre-Security/Introduction to Cyber Security/1. Careers in Cyber",
-    "Pre-Security",
-    "Pre-Security/Introduction to Cyber Security"
+    "1. Pre-Security/3. How the web works/4. Putting it all together/1. Load balancers.md",
+    "1. Pre-Security/3. How the web works/4. Putting it all together/2. Content delivery networks.md",
+    "1. Pre-Security/3. How the web works/3. How websites work/6. HTML injection.md",
+    "1. Pre-Security/3. How the web works/4. Putting it all together",
+    "1. Pre-Security/3. How the web works/3. How websites work/5. Sensitive data exposure.md",
+    "1. Pre-Security/3. How the web works/3. How websites work/4. Javascript.md",
+    "1. Pre-Security/3. How the web works/3. How websites work/3. HTML.md",
+    "1. Pre-Security/3. How the web works/3. How websites work/2. Back end.md",
+    "1. Pre-Security/3. How the web works/3. How websites work/1. Front end.md",
+    "1. Pre-Security/3. How the web works/2. HTTP in detail/6. Cookies.md",
+    "1. Pre-Security/3. How the web works/3. How websites work",
+    "1. Pre-Security/3. How the web works/2. HTTP in detail/5. headers.md",
+    "1. Pre-Security/3. How the web works/2. HTTP in detail/4. http status codes.md",
+    "1. Pre-Security/3. How the web works/2. HTTP in detail/3. http methods.md",
+    "1. Pre-Security/3. How the web works/2. HTTP in detail/2. What is url.md",
+    "1. Pre-Security/3. How the web works/2. HTTP in detail/1. What is http and https.md",
+    "1. Pre-Security/3. How the web works/1. DNS in detail/4. What happens when you make a dns request.md",
+    "1. Pre-Security/3. How the web works/2. HTTP in detail",
+    "1. Pre-Security/3. How the web works/1. DNS in detail/3. DNS Record types.md",
+    "1. Pre-Security/3. How the web works/1. DNS in detail/2. domain hierachy.md",
+    "1. Pre-Security/3. How the web works/1. DNS in detail/1. what is dns.md",
+    "1. Pre-Security/2. Networking Fundamentals/5. Extending your network/6. Virtual local area network (vlan).md",
+    "1. Pre-Security/3. How the web works/1. DNS in detail",
+    "1. Pre-Security/3. How the web works",
+    "1. Pre-Security/2. Networking Fundamentals/5. Extending your network/5. What is a switch.md",
+    "1. Pre-Security/2. Networking Fundamentals/5. Extending your network/4. What is a router.md",
+    "1. Pre-Security/2. Networking Fundamentals/5. Extending your network/3. VPN Basics.md",
+    "1. Pre-Security/2. Networking Fundamentals/5. Extending your network/2. Firewalls 101.md",
+    "1. Pre-Security/2. Networking Fundamentals/5. Extending your network/1. Port forwarding.md",
+    "2. Networking Fundamentals/5. Extending your network/Nimetön",
+    "1. Pre-Security/2. Networking Fundamentals/4. Packets and frames/5. Most common services and ports.md",
+    "1. Pre-Security/2. Networking Fundamentals/5. Extending your network",
+    "1. Pre-Security/2. Networking Fundamentals/4. Packets and frames/4. UDP IP.md",
+    "1. Pre-Security/2. Networking Fundamentals/4. Packets and frames",
+    "1. Pre-Security/2. Networking Fundamentals/3. OSI Model",
+    "2. Networking Fundamentals/2. Intro to LAN/4. Subnetting"
   ]
 }
